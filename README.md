@@ -15,7 +15,7 @@ C:\>TarTool.exe sample.tgz temp
 
 C:\>TarTool.exe -x sample.tar temp
 
-More details are on this post --http://blog.rajasekharan.com/2009/01/16/tartool-windows-tar-gzip-tgz-extraction-tool/
+More details are on this post --https://rajasekharan.com/blog/tartool-windows-tar-gzip-tgz-extraction-tool.html
 
 TarTool 2.0 Beta supports bzip2 decompression for files with extensions like tar.bz2 and .bz2.
 
@@ -31,4 +31,3 @@ TarTool uses SharpZipLib
 
 See licensing terms of SharpZipLib before reusing this code in one of your projects.
 http://www.icsharpcode.net/OpenSource/SharpZipLib/
-Last edited May 23, 2012 at 10:37 PM by senthil, version 12
