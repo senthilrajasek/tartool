@@ -23,7 +23,7 @@ TarTool -xj sample.tar.bz2 temp
 or
 TarTool -j sample.bz2
 
-http://tartool.codeplex.com/releases/view/85391
+[http://tartool.codeplex.com/releases/view/85391](https://web.archive.org/web/20171011031701/http://tartool.codeplex.com/releases/view/85391)
 
 Note:
 
